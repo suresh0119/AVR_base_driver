@@ -1,5 +1,5 @@
 
-ROOT_DIR 	= /home/suresh/workspace/TWM_Tank_water_level_monitoring
+ROOT_DIR 	= ..
 BUILD_DIR 	= $(ROOT_DIR)/build
 OBJECT_DIR 	= $(BUILD_DIR)/objects
 SOURCE_DIR 	= $(ROOT_DIR)/AVR_base_driver
